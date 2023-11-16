@@ -1,0 +1,145 @@
+[
+    {
+        "course_id": "CS101",
+        "course_name": "Introduction to Computer Science",
+        "instructor": {
+          "name": "Dr. John Smith",
+          "email": "john.smith@example.com",
+          "bio": "Dr. John Smith is a seasoned computer scientist with expertise in algorithms and data structures."
+        },
+        "syllabus": {
+          "week_1": "Introduction to Programming",
+          "week_2": "Basic Data Structures",
+          "week_3": "Algorithms Fundamentals",
+          "week_4": "Object-Oriented Programming",
+          "week_5": "Web Development Basics",
+          "week_6": "Final Project"
+        },
+        "course_content": {
+          "videos": [
+            {"title": "Programming Basics", "url": "https://example.com/programming-basics"},
+            {"title": "Data Structures Explained", "url": "https://example.com/data-structures"},
+            {"title": "Algorithm Design Principles", "url": "https://example.com/algorithm-design"}
+          ],
+          "readings": [
+            {"title": "Introduction to Programming", "url": "https://example.com/intro-to-programming-book"},
+            {"title": "Data Structures and Algorithms", "url": "https://example.com/data-structures-algorithms-book"}
+          ],
+          "assignments": [
+            {"title": "Programming Assignment 1", "deadline": "2023-02-15"},
+            {"title": "Data Structures Quiz", "deadline": "2023-03-01"},
+            {"title": "Final Project Proposal", "deadline": "2023-04-15"}
+          ]
+        },
+       
+            "rating": 4.5
+           
+        
+      },
+      {
+        "course_id": "MATH201",
+        "course_name": "Advanced Mathematics",
+        "instructor": {
+          "name": "Prof. Maria Rodriguez",
+          "email": "maria.rodriguez@example.com",
+          "bio": "Prof. Rodriguez specializes in advanced mathematical concepts and their applications in various fields."
+        },
+        "syllabus": {
+          "week_1": "Calculus and Analysis",
+          "week_2": "Linear Algebra",
+          "week_3": "Differential Equations",
+          "week_4": "Number Theory",
+          "week_5": "Probability and Statistics",
+          "week_6": "Research Project"
+        },
+        "course_content": {
+          "videos": [
+            {"title": "Limits and Derivatives", "url": "https://example.com/calculus-videos"},
+            {"title": "Eigenvalues and Eigenvectors", "url": "https://example.com/linear-algebra-videos"},
+            {"title": "Probability Distributions", "url": "https://example.com/probability-videos"}
+          ],
+          "readings": [
+            {"title": "Advanced Calculus", "url": "https://example.com/advanced-calculus-book"},
+            {"title": "Introduction to Probability", "url": "https://example.com/probability-book"}
+          ],
+          "assignments": [
+            {"title": "Proofs in Number Theory", "deadline": "2023-02-20"},
+            {"title": "Research Proposal", "deadline": "2023-03-10"},
+            {"title": "Final Project Report", "deadline": "2023-04-30"}
+          ]
+        },
+        "rating": 4.2
+      },
+      {
+        "course_id": "ENG202",
+        "course_name": "Creative Writing Workshop",
+        "instructor": {
+          "name": "Dr. Emily Turner",
+          "email": "emily.turner@example.com",
+          "bio": "Dr. Turner is an accomplished author and professor, passionate about fostering creativity in writing."
+        },
+        "syllabus": {
+          "week_1": "Introduction to Creative Writing",
+          "week_2": "Character Development",
+          "week_3": "Plot Structure",
+          "week_4": "Poetry and Prose",
+          "week_5": "Editing and Revision",
+          "week_6": "Final Portfolio"
+        },
+        "course_content": {
+          "videos": [
+            {"title": "Crafting Compelling Characters", "url": "https://example.com/characters-videos"},
+            {"title": "The Art of Poetry", "url": "https://example.com/poetry-videos"},
+            {"title": "Editing Techniques", "url": "https://example.com/editing-videos"}
+          ],
+          "readings": [
+            {"title": "On Writing", "url": "https://example.com/on-writing-book"},
+            {"title": "The Elements of Style", "url": "https://example.com/elements-of-style-book"}
+          ],
+          "assignments": [
+            {"title": "Short Story Creation", "deadline": "2023-02-28"},
+            {"title": "Poetry Analysis", "deadline": "2023-03-15"},
+            {"title": "Final Portfolio Submission", "deadline": "2023-05-01"}
+          ]
+        },
+        "rating": 4.9
+      },
+      {
+        "course_id": "PHYS301",
+        "course_name": "Quantum Physics",
+        "instructor": {
+          "name": "Prof. Andrew Davis",
+          "email": "andrew.davis@example.com",
+          "bio": "Prof. Davis is a leading physicist with expertise in quantum mechanics and theoretical physics."
+        },
+        "syllabus": {
+          "week_1": "Foundations of Quantum Mechanics",
+          "week_2": "Wave-Particle Duality",
+          "week_3": "Quantum Entanglement",
+          "week_4": "Quantum Computing",
+          "week_5": "Applications in Modern Technology",
+          "week_6": "Research Project"
+        },
+        "course_content": {
+          "videos": [
+            {"title": "Introduction to Quantum Mechanics", "url": "https://example.com/quantum-mechanics-videos"},
+            {"title": "Quantum Computing Explained", "url": "https://example.com/quantum-computing-videos"},
+            {"title": "Applications of Quantum Physics", "url": "https://example.com/quantum-applications-videos"}
+          ],
+          "readings": [
+            {"title": "Principles of Quantum Mechanics", "url": "https://example.com/quantum-mechanics-book"},
+            {"title": "Quantum Computing: A Beginner's Guide", "url": "https://example.com/quantum-computing-book"}
+          ],
+          "assignments": [
+            {"title": "Quantum Entanglement Experiment", "deadline": "2023-03-05"},
+            {"title": "Research Proposal on Quantum Computing", "deadline": "2023-03-25"},
+            {"title": "Final Project Presentation", "deadline": "2023-05-10"}
+          ]
+        },
+        "rating": 4.6
+      }
+      
+      
+      
+      
+]
